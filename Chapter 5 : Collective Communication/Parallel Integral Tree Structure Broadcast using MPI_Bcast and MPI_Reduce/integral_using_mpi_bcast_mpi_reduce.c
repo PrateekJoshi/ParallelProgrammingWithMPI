@@ -17,6 +17,8 @@
  *    1.  f(x) is hardwired.
  *    2.  the number of processes (p) should evenly divide
  *        the number of trapezoids (n).
+ *
+ *        https://www.youtube.com/watch?v=mzfVimVbguQ&feature=youtu.be
  */
 #include <stdio.h>
 #include <mpi/mpi.h>
